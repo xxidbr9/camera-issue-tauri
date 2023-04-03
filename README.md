@@ -7,17 +7,17 @@ This template should help get you started developing with Tauri, React and Types
 
 **Install Dependency**
 ```bash
-pnpm install # install all dependency
+pnpm install
 ```
 
 **Run Tauri App**
 ```bash
-pnpm tauri dev # install all dependency
+pnpm tauri dev 
 ```
 
 **Run Only React App**
 ```bash
-pnpm dev # install all dependency
+pnpm dev 
 ```
 
 ## Recommended IDE Setup
